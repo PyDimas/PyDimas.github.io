@@ -1,3 +1,1 @@
-# PyDimas.github.io
-My site
-@import "{{ site.theme }}";
+Добро пожаловать на датобазу тут ты можешь скачать вuрусы
